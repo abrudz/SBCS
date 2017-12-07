@@ -1,5 +1,5 @@
 # Usage
-Use this these functions to enable storing Dyalog APL souce files in singe-byte files, even if they contain the characters `⊆` `⍠` `⍤` `⌸` `⌺` `⍸` which are not included in the Dyalog Classic character set (`⎕AV`).
+Use these functions to enable storing Dyalog APL souce files in singe-byte files, even if they contain the characters `⊆` `⍠` `⍤` `⌸` `⌺` `⍸` which are not included in the Dyalog Classic character set (`⎕AV`).
 
 Store a .dyalog file as a SBCS file:
 
