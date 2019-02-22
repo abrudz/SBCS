@@ -1,5 +1,5 @@
-﻿:Namespace SBCS
-⍝ Use this these functions to enable storing APL in singe-byte files.
+:Namespace SBCS
+⍝ Use these functions to enable storing APL in single-byte-per-character files.
 ⍝ Store a .dyalog file as a SBCS file:
 ⍝   'code.dyalog' SBCS.To 'code.sbcs'
 ⍝ Regenerate a .dyalog file from a SBCS file:
